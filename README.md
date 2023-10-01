@@ -1,4 +1,5 @@
 # pyAcademy
 cokolwiek
-:w
+
+super poprawka
 
